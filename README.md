@@ -4,12 +4,6 @@ Este repositório contém a atividade prática realizada no bootcamp da DIO, que
 
 ---
 
-## 📸 Imagem da Instância Criada
-
-![Instância no Azure](imagens/banco-azure.jpg)
-
----
-
 ## ⚙️ Configurações da Instância
 
 | Item | Configuração |
